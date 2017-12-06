@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  KeyboardMaster
 //
-//  Created by lucas.best.5@gmail.com on 12/06/2017.
-//  Copyright (c) 2017 lucas.best.5@gmail.com. All rights reserved.
+//  Created by Lucas Best on 12/06/2017.
+//  Copyright (c) 2017 Lucas Best. All rights reserved.
 //
 
 import UIKit

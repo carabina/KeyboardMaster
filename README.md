@@ -22,7 +22,7 @@ pod 'KeyboardMaster'
 
 ## Author
 
-lucas.best.5@gmail.com, lucas.best.5@gmail.com
+Lucas Best, lucas.best.5@gmail.com
 
 ## License
 
