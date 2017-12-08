@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'KeyboardMaster'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of KeyboardMaster.'
+  s.summary          = 'KeyboardMaster is a UIScollView extension intended to make it easier to manage the iOS keyboard.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+KeyboardMaster is a simple Swift extension on UIScrollView that allows you to easily and automatically manage the keyboard in iOS. Simply call UIScrollView.registerForKeyboardEvents() and the extension will do the rest of the work for you.
                        DESC
 
   s.homepage         = 'https://github.com/LucasBest/KeyboardMaster'
